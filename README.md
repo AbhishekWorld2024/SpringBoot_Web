@@ -1,8 +1,7 @@
 # SpringBoot_Web
 <h1>**Spring Boot Web Application with Login and User-Specific Details Pages**</h1>
-This project is a Spring Boot web application with a simple login system that directs users to personalized detail pages based on their unique ID. The project demonstrates basic Spring MVC functionality with JSP for the view layer and includes conditional routing, handling login requests, and error handling.
-**
-Features**
+This project is a Spring Boot web application with a simple login system that directs users to personalized detail pages based on their unique ID. The project demonstrates basic Spring MVC functionality with JSP for the view layer and includes conditional routing, handling login requests, and error handling.<br><br>
+**Features**
 **Login Page:** The initial page where users can input their ID, email, and password.
 **Conditional Routing:**
 If the ID is valid, the user is redirected to their designated details page.
